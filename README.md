@@ -18,7 +18,7 @@ import (
         "github.com/jmunson/zapwrap"
         "github.com/labstack/echo"
         "github.com/uber-go/zap"
-)q
+)
 
 func main() {
         e := echo.New()
